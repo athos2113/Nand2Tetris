@@ -6,7 +6,8 @@ In previous projects we've built the computer's basic processing and storage dev
 **Objective** :
 Complete the construction of the Hack CPU and the Hack hardware platform, leading up to the top-most Computer chip.
 
-Chips
+**Chips**:
+
 ![chip](chip.PNG)
 
 **Contract** :
