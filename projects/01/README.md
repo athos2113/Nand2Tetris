@@ -13,4 +13,4 @@ The only building blocks that you can use in this project are primitive Nand gat
 the composite gates that you will gradually build on top of them.
 
 **Chips** : 
-![chip](chip.png)
+![chip](chip.PNG)
